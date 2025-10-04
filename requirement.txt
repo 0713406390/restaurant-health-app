@@ -1,4 +1,4 @@
-streamlit
-pandas
-joblib
-reportlab
+streamlit==1.50.0
+pandas==2.3.2
+joblib==1.5.2
+reportlab==4.4.4
