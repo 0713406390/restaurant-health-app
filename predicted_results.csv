@@ -1,0 +1,5 @@
+INSPECTION TYPE,CRITICAL FLAG,VIOLATION CODE,SCORE,inspection_year,inspection_month,inspection_day_of_week,Actual Grade,Predicted Grade,Customer Msg,Owner Rec,Authority Act
+9,0,49,25,2024,6,1,A,N,⚪ Not yet graded.,🍕 Prepare for first inspection.,🏛️ Schedule initial inspection.
+1,0,40,18,2024,7,4,B,N,⚪ Not yet graded.,🍕 Prepare for first inspection.,🏛️ Schedule initial inspection.
+2,1,60,12,2024,7,0,C,A,🟢 Excellent! Safe to dine.,🍕 Keep up the great work!,🏛️ Low priority. Routine inspection.
+0,0,0,15,2024,7,2,B,N,⚪ Not yet graded.,🍕 Prepare for first inspection.,🏛️ Schedule initial inspection.

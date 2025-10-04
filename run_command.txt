@@ -1,0 +1,4 @@
+
+streamlit run "C:/Users/Nethmi Niwarthana/Desktop/Mini_project/balanced_app.py"
+
+python "C:/Users/Nethmi Niwarthana/Desktop/Mini_project/system_check.py"
